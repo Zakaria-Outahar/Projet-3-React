@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Projet-3-React/static/css/main.9edff147.chunk.css",
+    "main.js": "/Projet-3-React/static/js/main.39e318fc.chunk.js",
+    "main.js.map": "/Projet-3-React/static/js/main.39e318fc.chunk.js.map",
+    "runtime-main.js": "/Projet-3-React/static/js/runtime-main.0f448eb0.js",
+    "runtime-main.js.map": "/Projet-3-React/static/js/runtime-main.0f448eb0.js.map",
+    "static/js/2.d4c38c2a.chunk.js": "/Projet-3-React/static/js/2.d4c38c2a.chunk.js",
+    "static/js/2.d4c38c2a.chunk.js.map": "/Projet-3-React/static/js/2.d4c38c2a.chunk.js.map",
+    "index.html": "/Projet-3-React/index.html",
+    "static/css/main.9edff147.chunk.css.map": "/Projet-3-React/static/css/main.9edff147.chunk.css.map",
+    "static/js/2.d4c38c2a.chunk.js.LICENSE.txt": "/Projet-3-React/static/js/2.d4c38c2a.chunk.js.LICENSE.txt",
+    "static/media/france.40c79af5.svg": "/Projet-3-React/static/media/france.40c79af5.svg",
+    "static/media/spain.32e1e489.svg": "/Projet-3-React/static/media/spain.32e1e489.svg",
+    "static/media/united-kingdom.2d19fed4.svg": "/Projet-3-React/static/media/united-kingdom.2d19fed4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f448eb0.js",
+    "static/js/2.d4c38c2a.chunk.js",
+    "static/css/main.9edff147.chunk.css",
+    "static/js/main.39e318fc.chunk.js"
+  ]
+}
